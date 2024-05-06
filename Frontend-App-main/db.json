@@ -1,0 +1,52 @@
+{
+  "posts":[
+      {
+          "userId" :1,
+          "id": 1,
+          "title": "Lorem ipsum dolor sit amet, consectetur adip occum nost",
+          "body": "Lorem ipsum dolor sit amet, consectetur adip occum nost eu\nost rerym dolor sit amet et"
+      },
+      {
+          "userId" :2,
+          "id": 2,
+          "title": "Lorem ipsum dolor sit amet, consectetur adip occum nost",
+          "body": "Lorem ipsum dolor sit amet, consectetur adip occum nost eu\nost rerym dolor sit amet et"
+      },
+      {
+          "userId" :3,
+          "id": 3,
+          "title": "Lorem ipsum dolor sit amet, consectetur adip occum nost",
+          "body": "Lorem ipsum dolor sit amet, consectetur adip occum nost eu\nost rerym dolor sit amet et"
+      },
+      {
+          "userId" :4,
+          "id": 4,
+          "title": "Lorem ipsum dolor sit amet, consectetur adip occum nost",
+          "body": "Lorem ipsum dolor sit amet, consectetur adip occum nost eu\nost rerym dolor sit amet et"
+      },
+      {
+          "userId" :5,
+          "id": 5,
+          "title": "Lorem ipsum dolor sit amet, consectetur adip occum nost",
+          "body": "Lorem ipsum dolor sit amet, consectetur adip occum nost eu\nost rerym dolor sit amet et"
+      },
+      {
+          "userId" :6,
+          "id": 6,
+          "title": "Lorem ipsum dolor sit amet, consectetur adip occum nost",
+          "body": "Lorem ipsum dolor sit amet, consectetur adip occum nost eu\nost rerym dolor sit amet et"
+      },
+      {
+          "userId" :7,
+          "id": 7,
+          "title": "Lorem ipsum dolor sit amet, consectetur adip occum nost",
+          "body": "Lorem ipsum dolor sit amet, consectetur adip occum nost eu\nost rerym dolor sit amet et"
+      },
+      {
+          "userId" :8,
+          "id": 8,
+          "title": "Lorem ipsum dolor sit amet, consectetur adip occum nost",
+          "body": "Lorem ipsum dolor sit amet, consectetur adip occum nost eu\nost rerym dolor sit amet et"
+      }
+  ]
+}
